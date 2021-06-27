@@ -6,9 +6,9 @@ function Info() {
 
   <div className="note">
 
-      <h1>Java Script and React Js</h1>
+      <h1>Java Script and Reactjs</h1>
 
-      <p>A basic Webdevelopment React.js Bootcamp</p>
+      <p>Basic Webdevelopment With Javascript And React.js Bootcamp</p>
 
   </div>
 
