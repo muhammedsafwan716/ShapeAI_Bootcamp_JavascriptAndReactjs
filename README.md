@@ -1,4 +1,4 @@
-# ShapeAI_Bootcamp_JavascriptAndReactjs
+
 # SHAPEAI Javascript and Reactjs BOOTCAMP
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
